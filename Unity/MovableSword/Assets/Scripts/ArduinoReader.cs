@@ -38,7 +38,7 @@ public class ArduinoReader : MonoBehaviour
     private uint color_tranparent = 0x00000000;
 
     private float x_pos = 0f;
-    private float y_pos = 0f;
+    private float y_pos = 1f;
     private float z_pos = 0f;
 
     private float x_velo = 0f;
